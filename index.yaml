@@ -3,11 +3,11 @@ entries:
   my-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-10-12T14:44:34.189522329-04:00"
+    created: "2021-10-12T14:57:27.783036866-04:00"
     description: A Helm chart for Kubernetes
     digest: 5783653e5fc8925fcee08d73ffa3757f68f46012b13ba1c03809b4ab4bbe1df2
     name: my-app
     urls:
-    - https://github.com/triaaa/helm-example.git/my-app-0.1.0.tgz
+    - https://triaaa.github.io/helm-example/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-12T14:44:34.187612032-04:00"
+generated: "2021-10-12T14:57:27.781194054-04:00"
